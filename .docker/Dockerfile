@@ -13,7 +13,7 @@ RUN VERSION=$(grep -A 1 'BUNDLED WITH' Gemfile.lock | tail -n 1 | xargs); \
     bundle _${VERSION}_ install
 
 # install python
-RUN apt update && apt install -y python3 python3-pip dos2unix
+RUN apt update && apt install -y python3 python3-pip
 
 # install python packages
 RUN python3 -m pip install --no-cache-dir --upgrade --requirement requirements.txt
@@ -26,6 +26,5 @@ EXPOSE 4000
 EXPOSE 35729
 
 # run jekyll and cite process
-COPY .docker/entrypoint.sh /var/
-RUN dos2unix /var/entrypoint.sh && chmod +x /var/entrypoint.sh
+COPY .docker/entrypoint.sh /var
 CMD [ "/var/entrypoint.sh" ]
