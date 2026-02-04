@@ -19,7 +19,7 @@ For collaboration inquiries, please reach out to Professor Fons van der Sommen a
 {% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="group == 'alum'" %}
 
-{% include section.html background="images/background.png" dark=true %}
+{% include section.html background="images/background.jpg" dark=true %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis

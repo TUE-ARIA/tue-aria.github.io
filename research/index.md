@@ -22,7 +22,7 @@ Key research areas include:
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="GastroNet-5M: A Multicenter Dataset for Developing Foundation Models in Gastrointestinal Endoscopy" style="rich" %}
 
 {% include section.html %}
 

@@ -52,6 +52,7 @@ Get in touch with the ARIA research group at TU Eindhoven. We welcome collaborat
 
 {% capture col1 %}
 **Visiting Address**
+
 Room 5.089
 Flux Building  
 De Groene Loper 19  
