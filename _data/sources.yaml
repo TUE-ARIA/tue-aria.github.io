@@ -37,6 +37,7 @@
 - id: doi:10.1016/j.gie.2019.12.048
 - id: doi:10.1016/S2589-7500(23)00199-1
 - id: doi:10.1117/12.2549391
+- id: doi:10.1117/12.3045893
   image: https://github.com/caetas/AdverX/blob/main/imgs/AdverXRay.png
   buttons:
     - type: website
