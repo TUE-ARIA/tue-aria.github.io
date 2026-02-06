@@ -8,7 +8,6 @@ aliases:
 links:
   home-page: https://github.com/RomanPavelkin
   email: r.pavelkin@tue.nl
-  google-scholar: fvdsommen
   linkedin: www.linkedin.com/in/roman-pavelkin-b37703228
 ---
 
