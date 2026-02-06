@@ -26,6 +26,7 @@
 
 - id: doi:10.1053/j.gastro.2025.07.030
   image: https://www.gastrojournal.org/cms/10.1053/j.gastro.2025.07.030/asset/d3fe9f32-e76f-409f-871a-87eba69d9e1f/main.assets/gr1_lrg.jpg
+
 - id: doi:10.1016/j.media.2025.103873
 - id: doi:10.1055/a-2537-3510
 - id: doi:10.1055/a-2403-3103
@@ -36,6 +37,14 @@
 - id: doi:10.1016/j.gie.2019.12.048
 - id: doi:10.1016/S2589-7500(23)00199-1
 - id: doi:10.1117/12.2549391
+  image: https://github.com/caetas/AdverX/blob/main/imgs/AdverXRay.png
+  buttons:
+    - type: website
+      text: Project Page
+      link: https://caetas.github.io/adverx.html
+    - type: source
+      text: Code
+      link: https://github.com/caetas/AdverX
 - id: doi:10.3390/app10155040
 - id: doi:10.3390/app10124078
 - id: doi:10.1145/3243394.3243702
