@@ -1,7 +1,7 @@
 ---
 name: Roman Pavelkin
 image: images/20240228_205010-01.jpeg
-role: PhD candidate
+role: phd
 affiliation: TU Eindhoven
 aliases:
   - Roman Pavelkin
