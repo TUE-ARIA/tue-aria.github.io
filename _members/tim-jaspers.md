@@ -1,5 +1,5 @@
 ---
-name: Tim Boers
+name: Tim Jaspers
 image: images/photo.jpg
 role: phd
 affiliation: TU Eindhoven
