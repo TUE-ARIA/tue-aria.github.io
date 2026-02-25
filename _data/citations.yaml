@@ -709,6 +709,20 @@
   fons-vdsommen: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1117/12.3046678
+  title: Evaluating the interpretability of prototype networks for medical image analysis
+  authors:
+  - Pieter Gort
+  - Cris Claessens
+  - Peter H. N. De With
+  - Fons van der Sommen
+  publisher: 'Medical Imaging 2025: Image Processing'
+  date: '2025-04-11'
+  link: https://doi.org/hbqkm6
+  orcid: 0000-0002-3593-2356
+  fons-vdsommen: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1117/12.3045901
   title: Self-supervised learning for automated image quality assessment in endoscopy
   authors:
@@ -747,6 +761,22 @@
     and Modeling'
   date: '2025-04-07'
   link: https://doi.org/hbnmx6
+  orcid: 0000-0002-3593-2356
+  fons-vdsommen: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.3046120
+  title: Data-tailored shape compression for interventional device tracking
+  authors:
+  - Roman A. Pavelkin
+  - Luis Albert Zavala-Mondragon
+  - Ahmet Ekin
+  - Peter H. de With
+  - Fons van der Sommen
+  publisher: 'Medical Imaging 2025: Image-Guided Procedures, Robotic Interventions,
+    and Modeling'
+  date: '2025-04-07'
+  link: https://doi.org/hbqkm7
   orcid: 0000-0002-3593-2356
   fons-vdsommen: true
   plugin: orcid.py
