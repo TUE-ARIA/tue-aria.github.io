@@ -10,7 +10,7 @@ aliases:
 links:
   home-page: https://github.com/PieterGort
   email: p.c.gort@tue.nl
-  google-scholar: yUJ7pHMAAAAJ
+  google-scholar-account: yUJ7pHMAAAAJ
   linkedin: pieter-gort-055943179
 ---
 
