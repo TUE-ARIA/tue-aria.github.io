@@ -3,10 +3,14 @@ name: Pieter Gort
 image: images/PieterGort.jpg
 role: phd
 affiliation: TU Eindhoven
+aliases:
+  - P.C.Gort
+  - P.Gort
+  - Pieter Gort
 links:
   home-page: https://github.com/PieterGort
   email: p.c.gort@tue.nl
-  google-scholar: https://scholar.google.com/citations?user=yUJ7pHMAAAAJ&hl=en
+  google-scholar: yUJ7pHMAAAAJ
   linkedin: pieter-gort-055943179
 ---
 
