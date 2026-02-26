@@ -403,6 +403,24 @@
   fons-vdsommen: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.cviu.2025.104528
+  title: Learning to recognize correctly completed procedure steps in egocentric assembly
+    videos through spatio-temporal modeling
+  authors:
+  - Tim J. Schoonbeek
+  - Shao-Hsuan Hung
+  - Dan Lehman
+  - Hans Onvlee
+  - Jacek Kustra
+  - Peter H.N. De With
+  - Fons Van der Sommen
+  publisher: Computer Vision and Image Understanding
+  date: '2025-12-01'
+  link: https://doi.org/hbqpsb
+  orcid: 0000-0002-3593-2356
+  fons-vdsommen: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.compbiomed.2025.111188
   title: 'Artificial Intelligence and radiomics models for the diagnosis and prognosis
     of peritoneal metastases on imaging: a systematic review and meta-analysis'
