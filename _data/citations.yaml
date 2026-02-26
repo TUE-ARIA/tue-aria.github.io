@@ -403,6 +403,24 @@
   fons-vdsommen: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.cviu.2025.104528
+  title: Learning to recognize correctly completed procedure steps in egocentric assembly
+    videos through spatio-temporal modeling
+  authors:
+  - Tim J. Schoonbeek
+  - Shao-Hsuan Hung
+  - Dan Lehman
+  - Hans Onvlee
+  - Jacek Kustra
+  - Peter H.N. De With
+  - Fons Van der Sommen
+  publisher: Computer Vision and Image Understanding
+  date: '2025-12-01'
+  link: https://doi.org/hbqpsb
+  orcid: 0000-0002-3593-2356
+  fons-vdsommen: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.compbiomed.2025.111188
   title: 'Artificial Intelligence and radiomics models for the diagnosis and prognosis
     of peritoneal metastases on imaging: a systematic review and meta-analysis'
@@ -420,10 +438,11 @@
   publisher: Computers in Biology and Medicine
   date: '2025-11-01'
   link: https://doi.org/hbnmxn
-  orcid: 0000-0002-3593-2356
+  orcid: 0009-0006-2152-8674
   fons-vdsommen: true
   plugin: orcid.py
   file: orcid.yaml
+  cris-claessens: true
 - id: doi:10.1016/j.gie.2025.02.040
   title: "Comparison of graphic user interfaces for computer-aided detection in Barrett\u2019\
     s neoplasia"
@@ -468,10 +487,11 @@
   publisher: Lecture Notes in Computer Science
   date: '2025-10-12'
   link: https://doi.org/hbnmxq
-  orcid: 0000-0002-3593-2356
+  orcid: 0009-0006-2152-8674
   fons-vdsommen: true
   plugin: orcid.py
   file: orcid.yaml
+  cris-claessens: true
 - id: doi:10.1007/978-3-032-05127-1_46
   title: "SemiVT-Surge: Semi-supervised Video Transformer for\_Surgical Phase Recognition"
   authors:
@@ -705,10 +725,11 @@
   publisher: 'Medical Imaging 2025: Image Processing'
   date: '2025-04-11'
   link: https://doi.org/hbnmx4
-  orcid: 0000-0002-3593-2356
+  orcid: 0009-0006-2152-8674
   fons-vdsommen: true
   plugin: orcid.py
   file: orcid.yaml
+  cris-claessens: true
 - id: doi:10.1117/12.3046678
   title: Evaluating the interpretability of prototype networks for medical image analysis
   authors:
@@ -719,10 +740,11 @@
   publisher: 'Medical Imaging 2025: Image Processing'
   date: '2025-04-11'
   link: https://doi.org/hbqkm6
-  orcid: 0000-0002-3593-2356
+  orcid: 0009-0006-2152-8674
   fons-vdsommen: true
   plugin: orcid.py
   file: orcid.yaml
+  cris-claessens: true
 - id: doi:10.1117/12.3045901
   title: Self-supervised learning for automated image quality assessment in endoscopy
   authors:
@@ -819,10 +841,11 @@
   publisher: 'Medical Imaging 2025: Computer-Aided Diagnosis'
   date: '2025-04-04'
   link: https://doi.org/hbnmx8
-  orcid: 0000-0002-3593-2356
+  orcid: 0009-0006-2152-8674
   fons-vdsommen: true
   plugin: orcid.py
   file: orcid.yaml
+  cris-claessens: true
 - id: doi:10.1117/12.3047163
   title: Multiclass characterization of colorectal polyps under class imbalance using
     a calibrated cascade model
@@ -1111,10 +1134,11 @@
   publisher: Lecture Notes in Computer Science
   date: '2024-10-09'
   link: https://doi.org/hbnmwc
-  orcid: 0000-0002-3593-2356
+  orcid: 0009-0006-2152-8674
   fons-vdsommen: true
   plugin: sources.py
   file: sources.yaml
+  cris-claessens: true
 - id: doi:10.1007/978-3-031-73158-7_14
   title: Typicality Excels Likelihood for Unsupervised Out-of-Distribution Detection
     in Medical Imaging
@@ -1479,11 +1503,12 @@
   publisher: 'Medical Imaging 2024: Image Processing'
   date: '2024-04-02'
   link: https://doi.org/hbnmzv
-  orcid: 0000-0001-6455-0288
+  orcid: 0009-0006-2152-8674
   fons-vdsommen: true
   plugin: orcid.py
   file: orcid.yaml
   christiaan-viviers: true
+  cris-claessens: true
 - id: doi:10.1117/12.3006211
   title: Robustness evaluation of CAD systems for lung nodule segmentation using clinically
     relevant image perturbations
