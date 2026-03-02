@@ -729,6 +729,7 @@
   fons-vdsommen: true
   plugin: orcid.py
   file: orcid.yaml
+  cris-claessens: true
 - id: doi:10.1117/12.3046678
   title: Evaluating the interpretability of prototype networks for medical image analysis
   authors:
@@ -739,10 +740,11 @@
   publisher: 'Medical Imaging 2025: Image Processing'
   date: '2025-04-11'
   link: https://doi.org/hbqkm6
-  orcid: 0000-0002-3593-2356
+  orcid: 0009-0006-2152-8674
   fons-vdsommen: true
   plugin: orcid.py
   file: orcid.yaml
+  cris-claessens: true
 - id: doi:10.1117/12.3045901
   title: Self-supervised learning for automated image quality assessment in endoscopy
   authors:
