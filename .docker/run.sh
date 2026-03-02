@@ -35,3 +35,6 @@ ${DOCKER_RUN} ${PLATFORM} \
     --publish 35729:35729 \
     --volume "${WORKING_DIR}:/usr/src/app" \
     ${IMAGE} "$@"
+
+# example
+# docker run --name tueariagithub --init --rm -it -p 4000:4000 -p 35729:35729 -v "${PWD}:/usr/src/app" tueariagithub:latest

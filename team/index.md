@@ -13,10 +13,15 @@ For collaboration inquiries, please reach out to Professor Fons van der Sommen a
 
 {% include section.html %}
 
+## Current Members
+
 {% include list.html data="members" component="portrait" filter="role == 'professor'" %}
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alum'" %}
+
+## Alumni
+
 {% include list.html data="members" component="portrait" filter="group == 'alum'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}

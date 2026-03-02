@@ -8,7 +8,7 @@ aliases:
 links:
   home-page: https://github.com/RomanPavelkin
   email: r.pavelkin@tue.nl
-  linkedin: www.linkedin.com/in/roman-pavelkin-b37703228
+  linkedin: roman-pavelkin-b37703228
 ---
 
 PhD candidate in the ARIA research group at TU Eindhoven. Roman carries out research at the crossroad of sparsifying transforms, generative modeling, and data compression.
