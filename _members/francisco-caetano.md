@@ -5,6 +5,7 @@ role: phd
 affiliation: TU Eindhoven
 aliases:
   - F. Caetano
+  - Francisco Caetano
 links:
   home-page: https://caetas.github.io/
   email: f.caetano@tue.nl
