@@ -6,7 +6,7 @@ affiliation: TU Eindhoven
 links:
   home-page: https://github.com/LuisAlbertZM
   email: l.a.zavala.mondragon@tue.nl
-  google-scholar: https://scholar.google.com/citations?user=CmuuTKIAAAAJ&hl=nl&oi=ao
+  google-scholar-account: https://scholar.google.com/citations?user=CmuuTKIAAAAJ&hl=nl&oi=ao
   linkedin: https://www.linkedin.com/in/luis-a-zavala-mondrag%C3%B3n-89a33864/
 ---
 
