@@ -5,7 +5,7 @@ role: phd
 affiliation: TU Eindhoven
 links:
   home-page: https://timjaspers0801.github.io/
-  google-scholar: nwfiV2wAAAAJ
+  google-scholar-account: nwfiV2wAAAAJ
   linkedin: tim-jaspers-900034170
 ---
 
