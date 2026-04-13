@@ -253,6 +253,22 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1609/aaai.v40i4.37236
+  title: 'Symmetrical Flow Matching: Unified Image Generation, Segmentation, and Classification
+    with Score-Based Generative Models'
+  authors:
+  - Francisco Caetano
+  - Christiaan Viviers
+  - Peter H.N. de With
+  - Fons Van der Sommen
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2026-03-14'
+  link: https://doi.org/hbwgxc
+  orcid: 0000-0001-6455-0288
+  fons-vdsommen: true
+  plugin: orcid.py
+  file: orcid.yaml
+  christiaan-viviers: true
 - id: doi:10.1016/j.media.2025.103873
   title: Scaling up self-supervised learning for improved surgical foundation models
   authors:
