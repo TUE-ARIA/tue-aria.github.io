@@ -24,5 +24,3 @@ For collaboration inquiries, please reach out to Professor Fons van der Sommen a
 
 {% include list.html data="members" component="portrait" filter="group == 'alum'" %}
 
-
-{% include grid.html style="square" content=content %}
