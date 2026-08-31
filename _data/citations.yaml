@@ -253,6 +253,23 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/ICCV51701.2025.00278
+  title: 'DisCoPatch: Taming Adversarially-Driven Batch Statistics for Improved Out-of-Distribution
+    Detection'
+  authors:
+  - Francisco Caetano
+  - Christiaan Viviers
+  - "Luis A. Zavala-Mondrag\xF3n"
+  - Peter H.N. De With
+  - Fons van der Sommen
+  publisher: 2025 IEEE/CVF International Conference on Computer Vision (ICCV)
+  date: '2025-10-19'
+  link: https://doi.org/hcg8k3
+  orcid: 0000-0001-6455-0288
+  fons-vdsommen: true
+  plugin: orcid.py
+  file: orcid.yaml
+  christiaan-viviers: true
 - id: doi:10.1609/aaai.v40i4.37236
   title: 'Symmetrical Flow Matching: Unified Image Generation, Segmentation, and Classification
     with Score-Based Generative Models'
@@ -3505,7 +3522,7 @@
     Data Analysis
   publisher: Proceedings of the CIKM 2021 Workshops co-located with 30th ACM International
     Conference on Information and Knowledge Management (CIKM 2021)
-  date: '2025-07-10'
+  date: '2026-08-13'
   link: https://research.tue.nl/en/publications/1a63be0e-aa84-4478-bcfd-c4f9b2091b16
   orcid: 0000-0002-3593-2356
   fons-vdsommen: true
@@ -4897,6 +4914,14 @@
   link: https://research.tue.nl/en/publications/c1866f6c-2c08-4f42-b037-cc7ab58e3e79
   orcid: 0000-0001-6455-0288
   christiaan-viviers: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Scaling Self-Supervised and Cross-Modal Pretraining for Volumetric CT Transformers
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition (CVPR)
+  date: '2026-07-17'
+  orcid: 0009-0006-2152-8674
+  cris-claessens: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0349606
