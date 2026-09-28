@@ -253,6 +253,43 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.48550/arXiv.2605.18144
+  title: Evidence-Grounded Frontier Mapping and Agentic Hypothesis Generation in Nanomedicine
+  authors:
+  - Christiaan G. A. Viviers
+  - Koen de Bruin
+  - Mirre M. Trines
+  - Ayla M. Hokke
+  - Roy van der Meel
+  - Avi Schroeder
+  - Twan Lammers
+  - Willem J. M. Mulder
+  - Fons van der Sommen
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hcj8qh
+  orcid: 0000-0001-6455-0288
+  fons-vdsommen: true
+  plugin: orcid.py
+  file: orcid.yaml
+  christiaan-viviers: true
+- id: doi:10.1109/ICCV51701.2025.00278
+  title: 'DisCoPatch: Taming Adversarially-Driven Batch Statistics for Improved Out-of-Distribution
+    Detection'
+  authors:
+  - Francisco Caetano
+  - Christiaan Viviers
+  - "Luis A. Zavala-Mondrag\xF3n"
+  - Peter H.N. De With
+  - Fons van der Sommen
+  publisher: 2025 IEEE/CVF International Conference on Computer Vision (ICCV)
+  date: '2025-10-19'
+  link: https://doi.org/hcg8k3
+  orcid: 0000-0001-6455-0288
+  fons-vdsommen: true
+  plugin: orcid.py
+  file: orcid.yaml
+  christiaan-viviers: true
 - id: doi:10.1609/aaai.v40i4.37236
   title: 'Symmetrical Flow Matching: Unified Image Generation, Segmentation, and Classification
     with Score-Based Generative Models'
@@ -2557,6 +2594,22 @@
   fons-vdsommen: true
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1117/1.JMM.22.3.031208
+  title: Training procedure for scanning electron microscope 3D surface reconstruction
+    using unsupervised domain adaptation with simulated data
+  authors:
+  - Tim Houben
+  - Thomas Huisman
+  - Maxim Pisarenco
+  - Fons van der Sommen
+  - Peter de With
+  publisher: Journal of Micro/Nanopatterning, Materials, and Metrology
+  date: '2023-04-28'
+  link: https://doi.org/hbnm2r
+  orcid: 0000-0002-3593-2356
+  fons-vdsommen: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1117/12.2658094
   title: Depth estimation from SEM images using deep learning and angular data diversity
   authors:
@@ -2669,22 +2722,6 @@
   publisher: 'Medical Imaging 2023: Computer-Aided Diagnosis'
   date: '2023-04-07'
   link: https://doi.org/hbnm2q
-  orcid: 0000-0002-3593-2356
-  fons-vdsommen: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1117/1.JMM.22.3.031208
-  title: Training procedure for scanning electron microscope 3D surface reconstruction
-    using unsupervised domain adaptation with simulated data
-  authors:
-  - Tim Houben
-  - Thomas Huisman
-  - Maxim Pisarenco
-  - Fons van der Sommen
-  - Peter de With
-  publisher: Journal of Micro/Nanopatterning, Materials, and Metrology
-  date: '2023-04-28'
-  link: https://doi.org/hbnm2r
   orcid: 0000-0002-3593-2356
   fons-vdsommen: true
   plugin: orcid.py
@@ -3505,7 +3542,7 @@
     Data Analysis
   publisher: Proceedings of the CIKM 2021 Workshops co-located with 30th ACM International
     Conference on Information and Knowledge Management (CIKM 2021)
-  date: '2025-07-10'
+  date: '2026-08-13'
   link: https://research.tue.nl/en/publications/1a63be0e-aa84-4478-bcfd-c4f9b2091b16
   orcid: 0000-0002-3593-2356
   fons-vdsommen: true
@@ -4899,6 +4936,36 @@
   christiaan-viviers: true
   plugin: orcid.py
   file: orcid.yaml
+- title: Scaling Self-Supervised and Cross-Modal Pretraining for Volumetric CT Transformers
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition (CVPR)
+  date: '2026-07-17'
+  orcid: 0009-0006-2152-8674
+  cris-claessens: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11548-026-03796-9
+  title: Deep learning-based segmentation of peritoneal cancer index regions from
+    CT imaging
+  authors:
+  - Pieter C. Gort
+  - Lotte J. S. Fleurkens-Ewals
+  - Lenah D. Kampmeijer
+  - Anna F. van Herwijnen
+  - Marion W. Tops-Welten
+  - Cris H. B. Claessens
+  - Joost Nederend
+  - Ignace H. J. T. De Hingh
+  - Max J. Lahaye
+  - Misha D. P. Luyer
+  - Fons van der Sommen
+  publisher: International Journal of Computer Assisted Radiology and Surgery
+  date: '2026-09-27'
+  link: https://doi.org/hckqxr
+  orcid: 0009-0006-7359-8594
+  pieter-gort: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pone.0349606
   title: 'Impact of pre-segmented regions on CT-based evaluation of the Peritoneal
     Cancer Index: A reader study'
@@ -4923,6 +4990,20 @@
   plugin: orcid.py
   file: orcid.yaml
   lotte-ewals: true
+- id: doi:10.2139/ssrn.7528465
+  title: 'Flow-TAG: Flow-based conditional latent transport for accurate spline approximation
+    and data compression'
+  authors:
+  - Roman Pavelkin
+  - Luis  A. Zavala-Mondragon,
+  - Fons van der Sommen
+  publisher: Elsevier BV
+  date: '2026-01-01'
+  link: https://doi.org/hckqxs
+  orcid: 0000-0002-4469-8362
+  luis-zavalamondragon: true
+  plugin: orcid.py
+  file: orcid.yaml
 - title: Segmentation CNNs are denoising models
   publisher: '{ICML 2024 Workshop on Mechanistic Interpretability'
   date: '2024-08-09'
